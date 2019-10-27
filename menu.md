@@ -1,4 +1,5 @@
 1169740
-[Panino Primavera](primavera.md)
-[Panino Vegetariano](vegetariano.md)
+## panini
+[Panino Primavera](panini/primavera.md)
+[Panino Vegetariano](panini/vegetariano.md)
 Paninoteca Padovana
